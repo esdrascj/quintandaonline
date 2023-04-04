@@ -1,4 +1,4 @@
-# Quintanda Online
+# Quintanda Online :shopping_cart:
 Descreva aqui o nome e o objetivo do seu projeto.
 
 
